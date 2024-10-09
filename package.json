@@ -1,0 +1,22 @@
+{
+  "name": "didact",
+  "version": "3.0.0",
+  "description": "A didactic alternative to React",
+  "main": "didact.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RikutoOgaki/CreateReact.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "pomber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RikutoOgaki/CreateReact/issues"
+  },
+  "homepage": "https://github.com/RikutoOgaki/CreateReact#readme"
+}
